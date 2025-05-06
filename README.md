@@ -54,5 +54,5 @@ This project develops a dynamic programming framework to:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-2. Open DyanmicAirlineProgramming.ipynb
+2. Open `DyanmicAirlineProgramming.ipynb`
 3. Run the notebook to reproduce the value function, optimal policy details and key visualizations. 
