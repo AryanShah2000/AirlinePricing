@@ -55,4 +55,12 @@ This project develops a dynamic programming framework to:
    cd your-repo-name
 
 2. Open `DyanmicAirlineProgramming.ipynb`
-3. Run the notebook to reproduce the value function, optimal policy details and key visualizations. 
+3. Run the notebook to reproduce the value function, optimal policy details and key visualizations.
+
+## Project Members
+- Aman Sharma
+- Aryan Shah
+- Neha Boinapalli
+- Hrishi Salitri
+
+
